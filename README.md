@@ -24,7 +24,7 @@
 | Backend       | Rust |
 | Charts        | Chart.js / Recharts |
 | Bonus Spice   | Day.js, GSAP, OpenAI API (optional) |
-|   | Tauri |
+| Framework     | Tauri |
 
 ## 🗃️ Database Schema
 

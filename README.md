@@ -7,7 +7,6 @@
 - ✍️ Log what you learned daily (with tags, difficulty, and optional mood)
 - 📅 See your learning timeline and contribution calendar
 - 📊 Visualize your learning streaks and topics
-- 🔐 Supabase Auth for secure personal logs
 - 🎨 Clean, aesthetic interface with subtle animations
 - 🌶️ (Optional) Export to Markdown, GPT-generated monthly summaries, learning shame bell™
 
@@ -19,12 +18,13 @@
 
 | Layer         | Tool                |
 |---------------|---------------------|
-| Frontend      | React               |
+| Frontend      | Vue               |
 | Styling       | Tailwind CSS        |
-| State Mgmt    | Zustand             |
-| Backend       | Supabase (Postgres + Auth) |
+| State Mgmt    | Pinia             |
+| Backend       | Rust |
 | Charts        | Chart.js / Recharts |
 | Bonus Spice   | Day.js, GSAP, OpenAI API (optional) |
+|   | Tauri |
 
 ## 🗃️ Database Schema
 
